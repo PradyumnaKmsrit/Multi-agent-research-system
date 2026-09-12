@@ -2,6 +2,10 @@
 
 A multi-agent research pipeline built with LangChain that autonomously searches the web, scrapes deeper content, writes a structured report, and critiques its own output — all running on a free-tier LLM stack.
 
+## 🔗 Live Demo
+
+Try it here: https://multi-agent-research-system-rfanl37vxhuohcewf67g83.streamlit.app
+
 ## How it works
 
 Four agents/chains work in sequence:
